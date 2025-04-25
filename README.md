@@ -1,5 +1,7 @@
 Hi everyone! Welcome to my GitHub space!
 
+See more about me on my Linkedin:
+[Linkedin](https://www.linkedin.com/in/daniel-bruno-freitas-da-silva-3a0304335/)
 <!--
 **Danielbr-Uno/Danielbr-Uno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
