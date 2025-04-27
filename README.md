@@ -3,7 +3,7 @@
 
  - 🏡 Brazilian, Based in Fortaleza, CE
  - 💻 SAD student in Estácio
- - 📝 [Resume]()
+ - 📝 [Resume](https://github.com/Danielbr-Uno/Resume)
 
 <div align="left">
   <a href="https://github.com/Danielbr-Uno">
